@@ -6,8 +6,8 @@ No soy muy experta eligiendo nombres, seguro que los hay mejores...
     - menú(titulitoExPLORE + navlinks) +Spark
     - Otros enlaces DE ACCIONES (Create, Search, LogIn, SignUp) )
 
-    Lo he organizado en un dislay:flex; porque lo he interpretado como una secuencia lineal 
-       * en el menú, he creado un grid
+ Lo he organizado en un dislay:flex; porque lo he interpretado como una secuencia lineal 
+      
 
 CENTER-WRAPPER en dos columnas:
 
@@ -25,8 +25,7 @@ Por su simplicidad y oranizacion lineal, el display flex me resulta mas eficient
 
 
 
-
-    Estilos:
+ Estilos:
     He podido capturar algunos colores de la pagina de CodePen, 
     que actualmente se muestra con otro diseño pero también  ha mantenido su estilo inicial en cuanto a fuentes, fondos en escala de grises y colores como los grises, negro, gris claro y colores de atención como el amarillo, verde y azul.
     Tambien he capturado la fuente "Telefon" y "Lucida". 
