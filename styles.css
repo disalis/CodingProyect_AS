@@ -67,13 +67,6 @@ body {
     text-decoration: none;
     font-family:'Telefon' sans-serif;
     padding: 5px 20px 5px 0px;
-   
-}
-.center-column>.spark-button  {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    justify-content: flex-start;
-   
 }
 
 .center-column>.spark-button>.spark {
