@@ -89,7 +89,10 @@ body {
     text-decoration: none;
     border: 0;
     cursor: pointer;
+}
 
+.center-column>.spark-button>.spark  i{
+    margin-left: 5px;
 }
 
 .right-column {
