@@ -13,7 +13,7 @@ CENTER-WRAPPER en dos columnas:
 
 Aqui he incluido el bacground gradiente. tenia dudas si dejarlo en el body pero finalmente lo he dejado aqui porque podia controlar mejor las ubicaciones de los gradientes y porcentajes.
 
-He organizado las dos columnas en un grid para calcular mejor los porcentajes de las columanas-
+He organizado las dos columnas en un grid para calcular mejor los porcentajes de las columnas y filas.
 
 FOOTER:
 
