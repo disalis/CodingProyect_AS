@@ -219,55 +219,53 @@ strong {
 }
 
 /*FOOTER STYLES*/
-
 .footer-wrapper {
     background-color: rgb(20, 18, 18);
     width: 100%;
-    height: 200px;
+    height: 164px;
     display: flex;
     justify-content: space-between;
     align-self: center;
-
-
 }
 
 .footer-wrapper>.footer-links  {
     width: 100%;
-    height: 70px;
+    height: 60px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
 }
 
 .footer-wrapper>.footer-links> .teams, .education, .privacy ,.writing {
     background-color: #252830;
     color:#ffffff;
-    font-family: 'Telefon', sans-serif;
-    font-weight: 500;
-    font-size: 1.1rem;
-    padding-top: 1.5rem;
-    padding-left: 8.65rem;
-    padding-right: 8.64rem;
-    padding-bottom: 1.5rem;
+    font-family:'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    padding-top: 1.4rem;
+    padding-left: 7.76rem;
+    padding-right: 7.76rem;
+    padding-bottom: 1.4rem;
     border-right: 0.5px solid #868ca0;
     border-top: 0.5px solid #868ca0;
     border-bottom: 0.5px solid #868ca0;
-
-
 }
 .footer-wrapper>.footer-links a {
     color:#ffffff;
     text-decoration: none;
+    font-family:'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 
 span {
     color:#ffffff;
-    font-family: 'Telefon', sans-serif;
-    font-weight: 700;
-    font-size: 1.3rem;
+    font-family:'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 800;
+    
 }
+
+
+
+
 
 
 
