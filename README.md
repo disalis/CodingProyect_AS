@@ -29,7 +29,7 @@ Por su simplicidad y oranizacion lineal, el display flex me resulta mas eficient
     He podido capturar algunos colores de la pagina de CodePen, 
     que actualmente se muestra con otro diseño pero también  ha mantenido su estilo inicial en cuanto a fuentes, fondos en escala de grises y colores como los grises, negro, gris claro y colores de atención como el amarillo, verde y azul.
     Tambien he capturado la fuente "Telefon" y "Lucida". 
-    En FontAwesome el chevron y el search-icon y el emojii wave-hand, es el mismo pero no sé porque es renderizado de otra manera al original.
+    En FontAwesome el chevron y el search-icon y el emojii wave-hand, es el mismo pero se renderiza diferente, si lo insertas en Windows o en Apple. Parece que el original fue desde appla.
 
     
 
